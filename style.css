@@ -1,0 +1,217 @@
+@media (min-width:250px) and (max-width:540px){
+    *{
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+    .navbar{
+        flex-direction: column;
+    }
+    .search{
+        display: none;
+    }
+    .navmenu{
+        flex-direction: column;
+    }
+    .logo{
+        order: 2;
+    }
+    .rightmenu{
+        order: 1;
+        margin: 15px 0px;
+    }
+    .navmenu>div>a{
+        padding:5px;
+        margin: 5px;
+    }
+    .main{
+        padding: 120px 10px;
+        font-size: 20px;
+    }
+    .about{
+        margin:0px 20px;
+        margin-top: -30px;  
+        padding: 45px 60px;
+    }
+    .aboutbutton{
+        padding: 10px 20px;
+    }
+
+    .symtom>h1{
+        margin-left: -820px;
+        padding: 0px 250px;
+        padding-right: 300px;
+        font-size: 30px;
+    }
+
+    .symtom>p{
+        padding-right:310px;
+        padding-top: 20px;
+        margin-left: -690px;
+
+    }
+    .symtom>button{
+        margin-left: -575px;
+        padding: 5px 7px;
+    }
+    .symtom{
+        margin-bottom: 50px;
+        background-position:17% 100%;
+        background-size: 30%;
+        margin-top: -10px;
+    }
+
+    .protect1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .items{
+      width: 200px;
+    
+    }
+    .item-content{
+
+        padding: 10px 0px;
+        
+    }
+
+    .numbercase{
+        flex-direction: column;
+    }
+    .cases{
+        margin-top: 30px;
+        margin: 0px 30px;
+    }
+
+    .doctorsmain{
+        flex-direction: column;
+    }
+    .doctors{
+        margin: 20px 30px;
+    }
+
+    .maintable{
+        flex-direction: column;
+    }
+
+    .table>input{
+        padding: 10px 50px;
+        margin-left: -10px;
+    }
+    .table>button{
+        margin-left: -10px;
+    }
+    .headdown>h1{
+        /* margin-left: -80px; */
+        font-size: 25px;
+
+    }
+
+    .t2{
+        margin-top: -190px;
+    }
+    .table>img{
+        width: 280px;
+        height: 250px;
+       
+    }
+
+    .contact{
+        margin-top: -40px;
+    }
+
+    .updates{
+        margin-top: -80px;
+    }
+    .u1>h1{
+        font-size: 25px;
+        
+    }
+    
+    .u1{
+        margin-bottom: 30px;
+    }
+
+    .textmail>input{
+        padding: 20px 50px;
+        border-radius: 30px;
+        margin-top: 60px;
+        border: none;
+    }
+
+    .b3>button{
+        margin-top: 20px;
+        padding: 5px 15px;
+        border-radius: 20px;
+        background-color: #0A264A;
+        border: 0px;
+        color: white;
+    }
+
+    .lastmenu{
+        flex-direction: column;
+    }
+    
+    .lmenu{
+        
+    }
+
+    .l1{
+        margin-left: -165px;
+    }
+
+    .l2{
+        margin-left: -33px;
+    }
+
+    .l3{
+        margin-left:-200px;
+    }
+  
+    .l4>img{
+        height: 200px;
+        width: 250px;
+    }
+
+    .white{
+        height: 70px;
+    }
+}
+
+
+@media(min-width:540px) and (max-width:1000px){
+    .symtom{
+        background-position: 10% 40%;
+    }
+    .symtom>h1{
+        margin-left: -180px;
+        
+        font-size: 50px;
+    }
+
+    .symtom>p{
+        margin-left: -245px;
+    }
+    .symtom>button{
+        padding: 5px 30px;
+        margin-left: -127px;
+    }
+
+    .items{
+        flex-basis: 30%;
+    }
+    
+    .lastmenu{
+        height: 250px;
+        padding-left: 80px;
+    }
+
+    .lmenu{
+        margin-top: -40px;
+    }
+
+    .white{
+        height: 60px;
+    }
+}
