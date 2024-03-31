@@ -52,12 +52,12 @@ body {
 
 .logging {
     position: absolute;
-    left: -20px;
+    left: -35px;
     top: 15px;
 }
 
 .main {
-    background-image: url(/images/banner.png);
+    background-image: url(./images/banner.png);
     padding: 200px 100px;
     color: #FFFFFF;
     font-size: 60px;
@@ -133,8 +133,10 @@ body {
 }
 
 .protect>h1 {
+
     color: #353D47;
     text-align: center;
+
 }
 
 .protect>p {
@@ -158,6 +160,7 @@ body {
 }
 
 .items {
+    
     flex-basis: 20%;
 }
 
