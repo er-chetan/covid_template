@@ -76,7 +76,7 @@ body {
     background-color: #FFFFFF;
     margin: 0px 50px;
     padding: 90px 450px 90px 150px;
-    background-image: url(/images/about.png);
+    background-image: url(./images/about.png);
     background-position: 90% 10%;
     background-size: 25%;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ body {
 } */
 .symtom {
 
-    background-image: url(/images/corona.png);
+    background-image: url(./images/corona.png);
     background-repeat: no-repeat;
     background-position: 20% 60%;
     background-size: 40%;
@@ -145,7 +145,7 @@ body {
 }
 
 .protect1 {
-    background-image: url(/images/project.png);
+    background-image: url(./images/project.png);
     background-size: 100% 100%;
     background-color: #00132B;
     text-align: center;
@@ -331,7 +331,7 @@ body {
     margin-top: -70px;
 }
 .u1{
-  background-image: url(/images/case.png);
+  background-image: url(./images/case.png);
   background-repeat: no-repeat;
   background-size: 10% 100%;
   text-align: center;
@@ -341,7 +341,7 @@ body {
   
 }
 .textmail{
-    background-image: url(/images/ever_bg.jpg);
+    background-image: url(./images/ever_bg.jpg);
     background-size: 100% 100%;
     height: 220px;
     text-align: center;
